@@ -1,4 +1,4 @@
-# Sleuth-the-Crook
+# Sleuth the Crook
 An interactive, murder mystery based story game using the programming language C++ with the help of software TurboC++
 Aim: To build an interactive decision-logic narrative game.
 Key Feature: Uses modular functions and conditional logic to track player choices.
